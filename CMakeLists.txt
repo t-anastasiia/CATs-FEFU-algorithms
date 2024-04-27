@@ -3,6 +3,8 @@ project(cats_fefu)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cats_fefu "Problem A1. Bucket sort (LETTERS ONLY).cpp"
-        "Задача A5. Сортировка подсчетом.cpp"
-        "Задача N0. Дифтонги.cpp")
+add_executable(cats_fefu "A1. Bucket sort (LETTERS ONLY).cpp"
+        "A5. Сортировка подсчетом.cpp"
+        "N0. Дифтонги.cpp"
+        "A1. Bucket sort (LETTERS ONLY).cpp"
+        "N0. Дифтонги.cpp")

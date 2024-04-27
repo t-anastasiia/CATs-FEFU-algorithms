@@ -1,3 +1,15 @@
+//Problem A1. Bucket sort (LETTERS ONLY)
+//Author:	StdAlg	 	Time limit:	3 sec
+//        Input file:	input.txt	 	Memory limit:	256 Mb
+//        Output file:	output.txt
+//        Statement
+//You are to write a program that receives a sequence of words and sorts it in lexicographical order. Linear order on characters is given by ASCII codes.
+//Input file format
+//        First line of input file contains integer N — the sequence length. Following N lines contain one word per line. Each word is exactly three letters long.
+//Output file format
+//        Output file must consist of N lines, each containing one word from sorted sequence.
+//Constraints
+//0 &le; N &le; 1000000.
 #include <iostream>
 #include <vector>
 #include <string>
