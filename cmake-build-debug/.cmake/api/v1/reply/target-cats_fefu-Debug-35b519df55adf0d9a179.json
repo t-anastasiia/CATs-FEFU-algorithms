@@ -95,19 +95,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Problem A1. Bucket sort (LETTERS ONLY).cpp",
+			"path" : "A1. Bucket sort (LETTERS ONLY).cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "\u0417\u0430\u0434\u0430\u0447\u0430 A5. \u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e\u0434\u0441\u0447\u0435\u0442\u043e\u043c.cpp",
+			"path" : "A5. \u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e\u0434\u0441\u0447\u0435\u0442\u043e\u043c.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "\u0417\u0430\u0434\u0430\u0447\u0430 N0. \u0414\u0438\u0444\u0442\u043e\u043d\u0433\u0438.cpp",
+			"path" : "N0. \u0414\u0438\u0444\u0442\u043e\u043d\u0433\u0438.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

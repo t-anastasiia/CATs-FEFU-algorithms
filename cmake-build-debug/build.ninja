@@ -49,20 +49,20 @@ cmake_ninja_workdir = /Users/anastasiatalmazan/Desktop/cats_fefu/cmake-build-deb
 
 build cmake_object_order_depends_target_cats_fefu: phony || CMakeFiles/cats_fefu.dir
 
-build CMakeFiles/cats_fefu.dir/Problem_A1._Bucket_sort_(LETTERS_ONLY).cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/Problem$ A1.$ Bucket$ sort$ (LETTERS$ ONLY).cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = "CMakeFiles/cats_fefu.dir/Problem_A1._Bucket_sort_(LETTERS_ONLY).cpp.o.d"
+build CMakeFiles/cats_fefu.dir/A1._Bucket_sort_(LETTERS_ONLY).cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/A1.$ Bucket$ sort$ (LETTERS$ ONLY).cpp || cmake_object_order_depends_target_cats_fefu
+  DEP_FILE = "CMakeFiles/cats_fefu.dir/A1._Bucket_sort_(LETTERS_ONLY).cpp.o.d"
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
   OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir
 
-build CMakeFiles/cats_fefu.dir/Задача_A5._Сортировка_подсчетом.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/Задача$ A5.$ Сортировка$ подсчетом.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = CMakeFiles/cats_fefu.dir/Задача_A5._Сортировка_подсчетом.cpp.o.d
+build CMakeFiles/cats_fefu.dir/A5._Сортировка_подсчетом.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/A5.$ Сортировка$ подсчетом.cpp || cmake_object_order_depends_target_cats_fefu
+  DEP_FILE = CMakeFiles/cats_fefu.dir/A5._Сортировка_подсчетом.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
   OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir
 
-build CMakeFiles/cats_fefu.dir/Задача_N0._Дифтонги.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/Задача$ N0.$ Дифтонги.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = CMakeFiles/cats_fefu.dir/Задача_N0._Дифтонги.cpp.o.d
+build CMakeFiles/cats_fefu.dir/N0._Дифтонги.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/N0.$ Дифтонги.cpp || cmake_object_order_depends_target_cats_fefu
+  DEP_FILE = CMakeFiles/cats_fefu.dir/N0._Дифтонги.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
   OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir
@@ -75,7 +75,7 @@ build CMakeFiles/cats_fefu.dir/Задача_N0._Дифтонги.cpp.o: CXX_COMP
 #############################################
 # Link the executable cats_fefu
 
-build cats_fefu: CXX_EXECUTABLE_LINKER__cats_fefu_Debug CMakeFiles/cats_fefu.dir/Problem_A1._Bucket_sort_(LETTERS_ONLY).cpp.o CMakeFiles/cats_fefu.dir/Задача_A5._Сортировка_подсчетом.cpp.o CMakeFiles/cats_fefu.dir/Задача_N0._Дифтонги.cpp.o
+build cats_fefu: CXX_EXECUTABLE_LINKER__cats_fefu_Debug CMakeFiles/cats_fefu.dir/A1._Bucket_sort_(LETTERS_ONLY).cpp.o CMakeFiles/cats_fefu.dir/A5._Сортировка_подсчетом.cpp.o CMakeFiles/cats_fefu.dir/N0._Дифтонги.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
   POST_BUILD = :
