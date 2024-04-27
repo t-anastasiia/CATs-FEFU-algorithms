@@ -7,4 +7,5 @@ add_executable(cats_fefu "A1 Bucket sort (LETTERS ONLY)/t-anastasiia.cpp"
         "A5 Сортировка подсчетом/t-anastasiia-a5.cpp"
         "N0 Дифтонги/t-anastasiia-n0.cpp"
         "A1 Bucket sort (LETTERS ONLY)/t-anastasiia.cpp"
-        "N0 Дифтонги/t-anastasiia-n0.cpp")
+        "N0 Дифтонги/t-anastasiia-n0.cpp"
+        "C1 Сбалансированное дерево/nania01-c1.cpp")
