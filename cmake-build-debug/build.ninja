@@ -49,29 +49,11 @@ cmake_ninja_workdir = /Users/anastasiatalmazan/Desktop/cats_fefu/cmake-build-deb
 
 build cmake_object_order_depends_target_cats_fefu: phony || CMakeFiles/cats_fefu.dir
 
-build CMakeFiles/cats_fefu.dir/A1_Bucket_sort_(LETTERS_ONLY)/t-anastasiia.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/A1$ Bucket$ sort$ (LETTERS$ ONLY)/t-anastasiia.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = "CMakeFiles/cats_fefu.dir/A1_Bucket_sort_(LETTERS_ONLY)/t-anastasiia.cpp.o.d"
+build CMakeFiles/cats_fefu.dir/D4_Восстановить_IP/t-anastasiia-d4.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/D4$ Восстановить$ IP/t-anastasiia-d4.cpp || cmake_object_order_depends_target_cats_fefu
+  DEP_FILE = CMakeFiles/cats_fefu.dir/D4_Восстановить_IP/t-anastasiia-d4.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
-  OBJECT_FILE_DIR = "CMakeFiles/cats_fefu.dir/A1_Bucket_sort_(LETTERS_ONLY)"
-
-build CMakeFiles/cats_fefu.dir/A5_Сортировка_подсчетом/t-anastasiia-a5.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/A5$ Сортировка$ подсчетом/t-anastasiia-a5.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = CMakeFiles/cats_fefu.dir/A5_Сортировка_подсчетом/t-anastasiia-a5.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/cats_fefu.dir
-  OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir/A5_Сортировка_подсчетом
-
-build CMakeFiles/cats_fefu.dir/N0_Дифтонги/t-anastasiia-n0.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/N0$ Дифтонги/t-anastasiia-n0.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = CMakeFiles/cats_fefu.dir/N0_Дифтонги/t-anastasiia-n0.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/cats_fefu.dir
-  OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir/N0_Дифтонги
-
-build CMakeFiles/cats_fefu.dir/C1_Сбалансированное_дерево/nania01-c1.cpp.o: CXX_COMPILER__cats_fefu_unscanned_Debug /Users/anastasiatalmazan/Desktop/cats_fefu/C1$ Сбалансированное$ дерево/nania01-c1.cpp || cmake_object_order_depends_target_cats_fefu
-  DEP_FILE = CMakeFiles/cats_fefu.dir/C1_Сбалансированное_дерево/nania01-c1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/cats_fefu.dir
-  OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir/C1_Сбалансированное_дерево
+  OBJECT_FILE_DIR = CMakeFiles/cats_fefu.dir/D4_Восстановить_IP
 
 
 # =============================================================================
@@ -81,7 +63,7 @@ build CMakeFiles/cats_fefu.dir/C1_Сбалансированное_дерево/
 #############################################
 # Link the executable cats_fefu
 
-build cats_fefu: CXX_EXECUTABLE_LINKER__cats_fefu_Debug CMakeFiles/cats_fefu.dir/A1_Bucket_sort_(LETTERS_ONLY)/t-anastasiia.cpp.o CMakeFiles/cats_fefu.dir/A5_Сортировка_подсчетом/t-anastasiia-a5.cpp.o CMakeFiles/cats_fefu.dir/N0_Дифтонги/t-anastasiia-n0.cpp.o CMakeFiles/cats_fefu.dir/C1_Сбалансированное_дерево/nania01-c1.cpp.o
+build cats_fefu: CXX_EXECUTABLE_LINKER__cats_fefu_Debug CMakeFiles/cats_fefu.dir/D4_Восстановить_IP/t-anastasiia-d4.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/cats_fefu.dir
   POST_BUILD = :
